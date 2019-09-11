@@ -1,0 +1,28 @@
+{
+  "name": "captcha-test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirtesh Sharma",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirteshsharma/captcha.git"
+  },
+  "keywords": [
+    "Captcha",
+    "Node",
+    "Express"
+  ],
+  "bugs": {
+    "url": "https://github.com/kirteshsharma/captcha/issues"
+  },
+  "homepage": "https://github.com/kirteshsharma/captcha#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
